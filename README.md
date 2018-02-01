@@ -1,0 +1,1 @@
+Fichero README para el proyecto Cal del curso de Git de Miriadax
